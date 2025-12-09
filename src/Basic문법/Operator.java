@@ -1,3 +1,5 @@
+package Basic문법;
+
 public class Operator {
   public static void main(String[] args) {
     int kor,eng,tot,aver;

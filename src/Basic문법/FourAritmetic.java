@@ -1,3 +1,5 @@
+package Basic문법;
+
 public class FourAritmetic {
   public static void main(String[] args) {
   int a,b,add,sub,mult,div;
