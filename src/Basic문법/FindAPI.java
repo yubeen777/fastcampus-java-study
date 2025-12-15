@@ -13,6 +13,6 @@ public class FindAPI {
     System.out.println("s = " + s);
     System.out.println(s.length());//s는 즉 String자료형의 변수인데
     // 크게 String은 클래스이고 그안에 다양한 기능이 있는데
-    //그 기능을 사용하려면 s. 뒤에 .을 붙이면 사용가능한 메서드가 나오고 그중 저 메서드는 길이를 알려주는 기능을 한다
+    //그 기능을 사용하려면 s. 뒤에 .을 붙이면 사용가능한 메서드가 나오고 그중 저 메서드는   길이를 알려주는 기능을 한다
   }
 }
