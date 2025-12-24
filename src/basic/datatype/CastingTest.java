@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.datatype;
 
 public class CastingTest {
   public static void main(String[] args) {

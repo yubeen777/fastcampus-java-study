@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.syntax;
 
 public class CarTest {
   public static void main(String[] args) {

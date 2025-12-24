@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.operator;
 
 public class Operator {
   public static void main(String[] args) {

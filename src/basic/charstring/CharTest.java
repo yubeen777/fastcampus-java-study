@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.charstring;
 
 public class CharTest {
   public static void main(String[] args) {

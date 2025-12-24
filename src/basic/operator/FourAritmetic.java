@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.operator;
 
 public class FourAritmetic {
   public static void main(String[] args) {

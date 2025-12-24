@@ -1,4 +1,4 @@
-package Basic문법;
+package basic.syntax;
 
 //클래스 단위로 코딩을 한다.
 // 시작,메인 클래스
