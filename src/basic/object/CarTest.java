@@ -1,4 +1,4 @@
-package basic.syntax;
+package basic.object;
 
 public class CarTest {
   public static void main(String[] args) {

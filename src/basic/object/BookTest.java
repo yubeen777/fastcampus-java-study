@@ -1,4 +1,4 @@
-package basic.object_part;
+package basic.object;
 
 public class BookTest {
   public static void main(String[] args) {

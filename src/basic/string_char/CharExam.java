@@ -1,4 +1,4 @@
-package basic.charstring;
+package basic.string_char;
 
 public class CharExam {
   public static void main(String[] args) {

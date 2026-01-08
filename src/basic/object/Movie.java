@@ -1,4 +1,4 @@
-package basic.object_part;
+package basic.object;
 
 public class Movie {
   public String title;

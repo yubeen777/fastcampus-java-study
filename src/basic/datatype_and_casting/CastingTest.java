@@ -1,4 +1,4 @@
-package basic.datatype;
+package basic.datatype_and_casting;
 
 public class CastingTest {
   public static void main(String[] args) {

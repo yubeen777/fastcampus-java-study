@@ -1,4 +1,4 @@
-package basic.datatype;
+package basic.datatype_and_casting;
 
 public class BinaryTest {
   public static void main(String[] args) {

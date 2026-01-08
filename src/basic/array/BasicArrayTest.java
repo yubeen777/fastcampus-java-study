@@ -1,6 +1,6 @@
 package basic.array;
 
-import basic.object_part.Book;
+import basic.object.Book;
 
 public class BasicArrayTest {
   public static void main(String[] args) {
