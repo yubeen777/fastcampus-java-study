@@ -1,0 +1,14 @@
+package fc.java.course1.poly;
+
+//추상 클래스
+public abstract class Animal {
+//  public Animal() {
+//    super();
+//  }
+
+  public abstract void eat();// 추상메서드 (불완전한 메서드 ) : 메서드의 구현부가 없다
+
+  public void move(){
+    System.out.println("무리를 지어서 이동한다");//구현 메서드
+  }
+}
